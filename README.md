@@ -147,16 +147,16 @@ While revenue growth creates the appearance of success:
 ## 📸 Dashboard Preview
 
 ### 🔹 Page 1: Profit vs Sales Overview  
-Profit Illusion.png
+ProfitIllusion.png
 
 ### 🔹 Page 2: Root Cause Analysis  
-Root Cause.png
+RootCause.png
 
 ### 🔹 Page 3: Profit Breakdown (Decomposition Tree)  
-Profit Analysis1.png
+ProfitAnalysis1.png
 
 ### 🔹 Page 4: Loss-Making Product Identification  
-Profit Analysis2.png
+ProfitAnalysis2.png
 
 ### 🔹 Page 5: Business Recommendations  
 Recommendations.png
